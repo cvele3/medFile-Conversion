@@ -1,0 +1,2 @@
+- Svako na svoju granu
+- drzimo se neke konvencije imenovanja (grane imena -> feature/ImeGrane)
