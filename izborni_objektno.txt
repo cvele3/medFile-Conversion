@@ -1,0 +1,9 @@
+1. korak:
+	- napraviti jednstavni java program koji ce citati lokalane datoteke (medFIleove) i napraviti konverziju hdf5
+	- burso -> LAB, fico -> LUMOS, cvele -> MICROSCOPY
+	- pretvoriti u HDF5 format
+	- koristimo maven + java obicni projekt
+	- mvn treba skinuti (myb nastimatt u postavkama projekta, ali mozda)
+	- java 17
+	- napraviti github repo zasebni
+	
